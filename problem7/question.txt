@@ -1,0 +1,14 @@
+Write a Python program to convert the letters of a given string (same case-upper/lower) into alphabetical order. Go to the editor
+
+SAMPLE:1
+Original string: PHP
+Convert the letters of the said string into alphabetical order: HPP
+
+SAMPLE:2
+Original string: javascript
+Convert the letters of the said string into alphabetical order: aacijprstv
+
+SAMPLE:3
+Original string: python
+Convert the letters of the said string into alphabetical order: hnopty
+
