@@ -9,7 +9,7 @@ Sample 2:
 Original Number: 500
 Largest Digit of the said number: 5
 Smallest Digit of the said number: 0
-
+    
 Sample 3:
 Original Number: 231548
 Largest Digit of the said number: 8

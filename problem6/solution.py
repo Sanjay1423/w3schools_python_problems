@@ -1,6 +1,7 @@
 numbers = list(input().split(','))
 check_list = []
 sum = 0
+
 for i in numbers:
     sum += 1
     if i not in check_list:
