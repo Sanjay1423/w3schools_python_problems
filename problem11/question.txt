@@ -1,0 +1,10 @@
+Write a Python program to create a coded string from a given string, using specified formula. 
+Replace all 'P' with '9', 'T' with '0', 'S' with '1', 'H' with '6' and 'A' with '8'
+
+SAMPLE 1:
+Original string: PHP
+Coded string: 969
+
+SAMPLE 2:
+Original string: JAVASCRIPT
+Coded string: J8V81CRI90
